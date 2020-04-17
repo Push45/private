@@ -6,7 +6,7 @@ bitcoin/.appveyor.yml
 
 Line 88 in d9fd7b5
 
- # Fee estimation test failing on appveyor with: WinError 10048] Only one usage of each socket address (protocol/network address/port) is normally permitted. 
+ # Fee estimation test failing on appveyor Only one usage of each socket address (protocol/network address/port) is normally permitted. 
 Useful skills:
 Strong background in internet protocols
 Strong background in libevent
